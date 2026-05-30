@@ -87,6 +87,8 @@ Using Wappalyzer revealed:
 
 - **Next.js Version:** 15.0.3
 
+![Wappalyzer showing Next.js 15.0.3](image.png)
+
 ### Observations
 
 The dashboard was accessible without authentication and disclosed information about personnel working at the facility:
