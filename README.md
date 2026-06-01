@@ -16,6 +16,7 @@ Each writeup tracks a complete attack lifecycle including reconnaissance, initia
 | :--- | :--- | :--- | :--- |
 | **Reactor** | Easy | Next.js RCE (CVE-2025-55182) & Node.js Debug Abuse | [View](./Linux/Reactor-Easy/writeup.md) |
 | **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View](./Linux/CCTV-Easy/writeup.md) |
+| **WingData** | Easy | Wing FTP Server RCE (CVE-2025-47812) & Python tarfile.extractall() Privilege Escalation | [View](./Linux/WingData-Easy/writeup.md) |
 
 ### 🪟 Windows
 
