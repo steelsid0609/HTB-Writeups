@@ -1,15 +1,28 @@
 # HTB-Writeups
 
-A repository containing detailed writeups and walkthroughs for various Hack The Box machines.
+A structured repository containing detailed writeups, methodology documentation, and system exploitation walkthroughs for various Hack The Box (HTB) machines. 
 
-## Completed Writeups
+## 📊 Overview
 
-### Linux Machines
-
-| Machine Name | Difficulty | Main Vulnerabilities Exploited | Link |
-| :--- | :--- | :--- | :--- |
-| **Reactor** | Easy | Next.js RCE (CVE-2025-55182), Node.js Debug Port Abuse | [View Writeup](./Linux/Reactor-Easy/writeup.md) |
-| **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482), MotionEye Command Execution | [View Writeup](./Linux/CCTV-Easy/writeup.md) |
+Each writeup tracks a complete attack lifecycle including reconnaissance, initial access footprinting, internal credential logging, and privilege escalation vectors.
 
 ---
-*Status: Repository maintained and updated regularly.*
+
+## 🖥️ Completed Machines
+
+### 🐧 Linux
+
+| Machine Name | Difficulty | Core Vulnerabilities Exploited | Link |
+| :--- | :--- | :--- | :--- |
+| **Reactor** | Easy | Next.js RCE (CVE-2025-55182) & Node.js Debug Abuse | [View Walkthrough](./Linux/Reactor-Easy/writeup.md) |
+| **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View Walkthrough](./Linux/CCTV-Easy/writeup.md) |
+
+### 🪟 Windows
+
+| Machine Name | Difficulty | Core Vulnerabilities Exploited | Link |
+| :--- | :--- | :--- | :--- |
+| **Bastion** | Easy | SMB Share Information Leakage, VHD Mounting, Offline SAM Extraction & mRemoteNG Decryption | [View Walkthrough](./Windows/Bastion/writeup.md) |
+
+---
+
+_Status: Repository actively maintained and updated upon machine completion._
