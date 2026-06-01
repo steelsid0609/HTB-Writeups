@@ -14,14 +14,14 @@ Each writeup tracks a complete attack lifecycle including reconnaissance, initia
 
 | Machine Name | Difficulty | Core Vulnerabilities Exploited | Link |
 | :--- | :--- | :--- | :--- |
-| **Reactor** | Easy | Next.js RCE (CVE-2025-55182) & Node.js Debug Abuse | [View Walkthrough](./Linux/Reactor-Easy/writeup.md) |
-| **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View Walkthrough](./Linux/CCTV-Easy/writeup.md) |
+| **Reactor** | Easy | Next.js RCE (CVE-2025-55182) & Node.js Debug Abuse | [View](./Linux/Reactor-Easy/writeup.md) |
+| **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View](./Linux/CCTV-Easy/writeup.md) |
 
 ### 🪟 Windows
 
 | Machine Name | Difficulty | Core Vulnerabilities Exploited | Link |
 | :--- | :--- | :--- | :--- |
-| **Bastion** | Easy | SMB Share Information Leakage, VHD Mounting, Offline SAM Extraction & mRemoteNG Decryption | [View Walkthrough](./Windows/Bastion/writeup.md) |
+| **Bastion** | Easy | SMB Share Information Leakage, VHD Mounting, Offline SAM Extraction & mRemoteNG Decryption | [View](./Windows/Bastion/writeup.md) |
 
 ---
 
