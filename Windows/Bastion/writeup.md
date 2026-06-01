@@ -2,9 +2,9 @@
 
 > **Hack The Box Writeup**
 >
-> **Machine:** Bastion
-> **Difficulty:** Easy
-> **Operating System:** Windows
+> **Machine:** Bastion  
+> **Difficulty:** Easy  
+> **Operating System:** Windows  
 > **Date Solved:** 2026-06-01
 
 ---
