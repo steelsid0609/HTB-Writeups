@@ -14,9 +14,10 @@ Each writeup tracks a complete attack lifecycle including reconnaissance, initia
 
 | Machine Name | Difficulty | Core Vulnerabilities Exploited | Link |
 | :--- | :--- | :--- | :--- |
-| **Reactor** | Easy | Next.js RCE (CVE-2025-55182) & Node.js Debug Abuse | [View](./Linux/Reactor-Easy/writeup.md) |
-| **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View](./Linux/CCTV-Easy/writeup.md) |
-| **WingData** | Easy | Wing FTP Server RCE (CVE-2025-47812) & Python tarfile.extractall() Privilege Escalation | [View](./Linux/WingData-Easy/writeup.md) |
+| **Reactor** | Easy | Next.js RCE (CVE-2025-55182) & Node.js Debug Abuse | [View](./Linux/Easy/Reactor-Easy/writeup.md) |
+| **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View](./Linux/Easy/CCTV-Easy/writeup.md) |
+| **WingData** | Easy | Wing FTP Server RCE (CVE-2025-47812) & Python tarfile.extractall() Privilege Escalation | [View](./Linux/Easy/WingData-Easy/writeup.md) |
+| **SmartHire** | Medium | MLflow RCE (CVE-2024-37054) & Python .pth Import Hijacking | [View](./Linux/Medium/SmartHire-Medium/writeup.md) |
 
 ### 🪟 Windows
 
