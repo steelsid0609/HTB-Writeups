@@ -18,6 +18,7 @@ Each writeup tracks a complete attack lifecycle including reconnaissance, initia
 | **CCTV** | Easy | ZoneMinder Blind SQLi (CVE-2024-51482) & MotionEye Command Execution | [View](./Linux/Easy/CCTV-Easy/writeup.md) |
 | **WingData** | Easy | Wing FTP Server RCE (CVE-2025-47812) & Python tarfile.extractall() Privilege Escalation | [View](./Linux/Easy/WingData-Easy/writeup.md) |
 | **SmartHire** | Medium | MLflow RCE (CVE-2024-37054) & Python .pth Import Hijacking | [View](./Linux/Medium/SmartHire-Medium/writeup.md) |
+| **Helix** | Medium | Apache NiFi RCE (CVE-2023-34468), SSH Key Disclosure & OPC UA Maintenance Mode Privilege Escalation | [View](./Linux/Medium/Helix-Medium/writeup.md) |
 
 ### 🪟 Windows
 
