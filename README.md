@@ -19,12 +19,14 @@ Each writeup tracks a complete attack lifecycle including reconnaissance, initia
 | **WingData** | Easy | Wing FTP Server RCE (CVE-2025-47812) & Python tarfile.extractall() Privilege Escalation | [View](./Linux/Easy/WingData-Easy/writeup.md) |
 | **SmartHire** | Medium | MLflow RCE (CVE-2024-37054) & Python .pth Import Hijacking | [View](./Linux/Medium/SmartHire-Medium/writeup.md) |
 | **Helix** | Medium | Apache NiFi RCE (CVE-2023-34468), SSH Key Disclosure & OPC UA Maintenance Mode Privilege Escalation | [View](./Linux/Medium/Helix-Medium/writeup.md) |
+| **DevHub** | Medium | MCPJam RCE (CVE-2026-23744), Exposed Jupyter Token & Jupyter API Abuse | [View](./Linux/Medium/DevHub-Medium/writeup.md) |
 
 ### 🪟 Windows
 
 | Machine Name | Difficulty | Core Vulnerabilities Exploited | Link |
 | :--- | :--- | :--- | :--- |
-| **Bastion** | Easy | SMB Share Information Leakage, VHD Mounting, Offline SAM Extraction & mRemoteNG Decryption | [View](./Windows/Bastion/writeup.md) |
+| **Bastion** | Easy | SMB Share Information Leakage, VHD Mounting, Offline SAM Extraction & mRemoteNG Decryption | [View](./Windows/Easy/Bastion-Easy/writeup.md) |
+| **Logging** | Medium | SMB Log Credential Exposure, Shadow Credentials, DLL Hijack, ADCS ESC1 (UpdateSrv), WSUS Spoofing  | [View](./Windows/Medium/Logging-Medium/writeup.md) |
 
 ---
 
